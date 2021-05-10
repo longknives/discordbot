@@ -59,7 +59,7 @@ async def clear(ctx):
         
 
 
-client.run('ODQxMDgwNzMzMjM4MDM0NDYy.YJhjeQ.8v5fTIjHue7YSYDeLbLueDi_0Fk')
+client.run('')
 
  
 
